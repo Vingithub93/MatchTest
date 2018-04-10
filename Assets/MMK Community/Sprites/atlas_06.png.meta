@@ -1,0 +1,4172 @@
+fileFormatVersion: 2
+guid: 12b899fa8ee8b7f4b92a74630c9e5888
+timeCreated: 1463419315
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue-token
+    21300002: bomb_01
+    21300004: bomb_02
+    21300006: bomb_03
+    21300008: bomb_04
+    21300010: bomb_05
+    21300012: bomb_06
+    21300014: bubbles
+    21300016: cockie1
+    21300018: cockie2
+    21300020: green-token
+    21300022: ice-blocker_01
+    21300024: ice-blocker_02
+    21300026: ice-blocker_03
+    21300028: line-bonus_01
+    21300030: line-bonus_02
+    21300032: line-bonus_03
+    21300034: line-bonus_04
+    21300036: line-bonus_05
+    21300038: line-bonus_06
+    21300040: line-bonus_07
+    21300042: line-bonus_08
+    21300044: line-bonus_09
+    21300046: line-bonus_10
+    21300048: line-bonus_11
+    21300050: line-bonus_12
+    21300052: orange-token
+    21300054: purple-token
+    21300056: red-token
+    21300058: stone_01
+    21300060: stone_02
+    21300062: stone_03
+    21300064: yellow-token
+    21300066: animation_blue_fade-out_01
+    21300068: animation_blue_fade-out_02
+    21300070: animation_blue_fade-out_03
+    21300072: animation_blue_fade-out_04
+    21300074: animation_blue_fade-out_05
+    21300076: animation_blue_fade-out_06
+    21300078: animation_green_fade-out_01
+    21300080: animation_green_fade-out_02
+    21300082: animation_green_fade-out_03
+    21300084: animation_green_fade-out_04
+    21300086: animation_green_fade-out_05
+    21300088: animation_green_fade-out_06
+    21300090: animation_orange_fade-out_01
+    21300092: animation_orange_fade-out_02
+    21300094: animation_orange_fade-out_03
+    21300096: animation_orange_fade-out_04
+    21300098: animation_orange_fade-out_05
+    21300100: animation_orange_fade-out_06
+    21300102: animation_purple_fade-out_01
+    21300104: animation_purple_fade-out_02
+    21300106: animation_purple_fade-out_03
+    21300108: animation_purple_fade-out_04
+    21300110: animation_purple_fade-out_05
+    21300112: animation_purple_fade-out_06
+    21300114: animation_red_fade-out_01
+    21300116: animation_red_fade-out_02
+    21300118: animation_red_fade-out_03
+    21300120: animation_red_fade-out_04
+    21300122: animation_red_fade-out_05
+    21300124: animation_red_fade-out_06
+    21300126: animation_yellow_fade-out_01
+    21300128: animation_yellow_fade-out_02
+    21300130: animation_yellow_fade-out_03
+    21300132: animation_yellow_fade-out_04
+    21300134: animation_yellow_fade-out_05
+    21300136: animation_yellow_fade-out_06
+    21300138: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_01
+    21300140: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_02
+    21300142: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_03
+    21300144: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_04
+    21300146: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_05
+    21300148: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_06
+    21300150: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_07
+    21300152: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_01
+    21300154: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_02
+    21300156: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_03
+    21300158: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_04
+    21300160: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_05
+    21300162: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_06
+    21300164: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_07
+    21300166: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_01
+    21300168: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_02
+    21300170: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_03
+    21300172: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_04
+    21300174: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_05
+    21300176: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_06
+    21300178: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_07
+    21300180: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_01
+    21300182: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_02
+    21300184: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_03
+    21300186: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_04
+    21300188: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_05
+    21300190: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_06
+    21300192: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_07
+    21300194: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_01
+    21300196: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_02
+    21300198: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_03
+    21300200: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_04
+    21300202: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_05
+    21300204: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_06
+    21300206: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_07
+    21300208: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_01
+    21300210: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_02
+    21300212: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_03
+    21300214: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_04
+    21300216: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_05
+    21300218: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_06
+    21300220: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_07
+    21300222: animation-line_fade-line_h_blue_fade-animation_line_h_blue_01
+    21300224: animation-line_fade-line_h_blue_fade-animation_line_h_blue_02
+    21300226: animation-line_fade-line_h_blue_fade-animation_line_h_blue_03
+    21300228: animation-line_fade-line_h_blue_fade-animation_line_h_blue_04
+    21300230: animation-line_fade-line_h_blue_fade-animation_line_h_blue_05
+    21300232: animation-line_fade-line_h_blue_fade-animation_line_h_blue_06
+    21300234: animation-line_fade-line_h_green_fade-animation_line_h_green_01
+    21300236: animation-line_fade-line_h_green_fade-animation_line_h_green_02
+    21300238: animation-line_fade-line_h_green_fade-animation_line_h_green_03
+    21300240: animation-line_fade-line_h_green_fade-animation_line_h_green_04
+    21300242: animation-line_fade-line_h_green_fade-animation_line_h_green_05
+    21300244: animation-line_fade-line_h_green_fade-animation_line_h_green_06
+    21300246: animation-line_fade-line_h_orange_fade-animation_line_h_orange_01
+    21300248: animation-line_fade-line_h_orange_fade-animation_line_h_orange_02
+    21300250: animation-line_fade-line_h_orange_fade-animation_line_h_orange_03
+    21300252: animation-line_fade-line_h_orange_fade-animation_line_h_orange_04
+    21300254: animation-line_fade-line_h_orange_fade-animation_line_h_orange_05
+    21300256: animation-line_fade-line_h_orange_fade-animation_line_h_orange_06
+    21300258: animation-line_fade-line_h_purple_fade-animation_line_h_purple_01
+    21300260: animation-line_fade-line_h_purple_fade-animation_line_h_purple_02
+    21300262: animation-line_fade-line_h_purple_fade-animation_line_h_purple_03
+    21300264: animation-line_fade-line_h_purple_fade-animation_line_h_purple_04
+    21300266: animation-line_fade-line_h_purple_fade-animation_line_h_purple_05
+    21300268: animation-line_fade-line_h_purple_fade-animation_line_h_purple_06
+    21300270: animation-line_fade-line_h_red_fade-animation_line_h_red_01
+    21300272: animation-line_fade-line_h_red_fade-animation_line_h_red_02
+    21300274: animation-line_fade-line_h_red_fade-animation_line_h_red_03
+    21300276: animation-line_fade-line_h_red_fade-animation_line_h_red_04
+    21300278: animation-line_fade-line_h_red_fade-animation_line_h_red_05
+    21300280: animation-line_fade-line_h_red_fade-animation_line_h_red_06
+    21300282: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_01
+    21300284: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_02
+    21300286: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_03
+    21300288: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_04
+    21300290: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_05
+    21300292: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_06
+    21300294: animation-line_fade-line_v_blue_fade-animation_line_v_blue_01
+    21300296: animation-line_fade-line_v_blue_fade-animation_line_v_blue_02
+    21300298: animation-line_fade-line_v_blue_fade-animation_line_v_blue_03
+    21300300: animation-line_fade-line_v_blue_fade-animation_line_v_blue_04
+    21300302: animation-line_fade-line_v_blue_fade-animation_line_v_blue_05
+    21300304: animation-line_fade-line_v_blue_fade-animation_line_v_blue_06
+    21300306: animation-line_fade-line_v_green_fade-animation_line_v_green_01
+    21300308: animation-line_fade-line_v_green_fade-animation_line_v_green_02
+    21300310: animation-line_fade-line_v_green_fade-animation_line_v_green_03
+    21300312: animation-line_fade-line_v_green_fade-animation_line_v_green_04
+    21300314: animation-line_fade-line_v_green_fade-animation_line_v_green_05
+    21300316: animation-line_fade-line_v_green_fade-animation_line_v_green_06
+    21300318: animation-line_fade-line_v_orange_fade-animation_line_v_orange_01
+    21300320: animation-line_fade-line_v_orange_fade-animation_line_v_orange_02
+    21300322: animation-line_fade-line_v_orange_fade-animation_line_v_orange_03
+    21300324: animation-line_fade-line_v_orange_fade-animation_line_v_orange_04
+    21300326: animation-line_fade-line_v_orange_fade-animation_line_v_orange_05
+    21300328: animation-line_fade-line_v_orange_fade-animation_line_v_orange_06
+    21300330: animation-line_fade-line_v_purple_fade-animation_line_v_purple_01
+    21300332: animation-line_fade-line_v_purple_fade-animation_line_v_purple_02
+    21300334: animation-line_fade-line_v_purple_fade-animation_line_v_purple_03
+    21300336: animation-line_fade-line_v_purple_fade-animation_line_v_purple_04
+    21300338: animation-line_fade-line_v_purple_fade-animation_line_v_purple_05
+    21300340: animation-line_fade-line_v_purple_fade-animation_line_v_purple_06
+    21300342: animation-line_fade-line_v_red_fade-animation_line_v_red_01
+    21300344: animation-line_fade-line_v_red_fade-animation_line_v_red_02
+    21300346: animation-line_fade-line_v_red_fade-animation_line_v_red_03
+    21300348: animation-line_fade-line_v_red_fade-animation_line_v_red_04
+    21300350: animation-line_fade-line_v_red_fade-animation_line_v_red_05
+    21300352: animation-line_fade-line_v_red_fade-animation_line_v_red_06
+    21300354: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_01
+    21300356: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_02
+    21300358: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_03
+    21300360: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_04
+    21300362: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_05
+    21300364: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_06
+    21300366: bomb-bomb_blue
+    21300368: bomb-bomb_green
+    21300370: bomb-bomb_orange
+    21300372: bomb-bomb_purple
+    21300374: bomb-bomb_red
+    21300376: bomb-bomb_yellow
+    21300378: cookies-cookie1
+    21300380: cookies-cookie2
+    21300382: line-ice-blocker_01
+    21300384: line-ice-blocker_02
+    21300386: line-ice-blocker_03
+    21300388: line-line_h_blue
+    21300390: line-line_h_green
+    21300392: line-line_h_orange
+    21300394: line-line_h_purple
+    21300396: line-line_h_red
+    21300398: line-line_h_yellow
+    21300400: line-line_v_blue
+    21300402: line-line_v_green
+    21300404: line-line_v_orange
+    21300406: line-line_v_purple
+    21300408: line-line_v_red
+    21300410: line-line_v_yellow
+    21300412: stone-stone_01
+    21300414: stone-stone_02
+    21300416: stone-stone_03
+    21300418: tokens-token_blue
+    21300420: tokens-token_green
+    21300422: tokens-token_orange
+    21300424: tokens-token_purple
+    21300426: tokens-token_red
+    21300428: tokens-token_yellow
+    21300430: animation-token_fade-Green-animation_token_green_fade_01
+    21300432: animation-token_fade-Green-animation_token_green_fade_02
+    21300434: animation-token_fade-Green-animation_token_green_fade_03
+    21300436: animation-token_fade-Green-animation_token_green_fade_04
+    21300438: animation-token_fade-Green-animation_token_green_fade_05
+    21300440: animation-token_fade-Green-animation_token_green_fade_06
+    21300442: animation-token_fade-Orange-animation_token_orange_fade_01
+    21300444: animation-token_fade-Orange-animation_token_orange_fade_02
+    21300446: animation-token_fade-Orange-animation_token_orange_fade_03
+    21300448: animation-token_fade-Orange-animation_token_orange_fade_04
+    21300450: animation-token_fade-Orange-animation_token_orange_fade_05
+    21300452: animation-token_fade-Orange-animation_token_orange_fade_06
+    21300454: animation-token_fade-Purple-animation_token_purple_fade_01
+    21300456: animation-token_fade-Purple-animation_token_purple_fade_02
+    21300458: animation-token_fade-Purple-animation_token_purple_fade_03
+    21300460: animation-token_fade-Purple-animation_token_purple_fade_04
+    21300462: animation-token_fade-Purple-animation_token_purple_fade_05
+    21300464: animation-token_fade-Purple-animation_token_purple_fade_06
+    21300466: animation-token_fade-Red-animation_token_red_fade_01
+    21300468: animation-token_fade-Red-animation_token_red_fade_02
+    21300470: animation-token_fade-Red-animation_token_red_fade_03
+    21300472: animation-token_fade-Red-animation_token_red_fade_04
+    21300474: animation-token_fade-Red-animation_token_red_fade_05
+    21300476: animation-token_fade-Red-animation_token_red_fade_06
+    21300478: animation-token_fade-Yellow-animation_token_yellow_fade_01
+    21300480: animation-token_fade-Yellow-animation_token_yellow_fade_02
+    21300482: animation-token_fade-Yellow-animation_token_yellow_fade_03
+    21300484: animation-token_fade-Yellow-animation_token_yellow_fade_04
+    21300486: animation-token_fade-Yellow-animation_token_yellow_fade_05
+    21300488: animation-token_fade-Yellow-animation_token_yellow_fade_06
+    21300490: animation-token_fade-blue-animation_token_blue_fade_01
+    21300492: animation-token_fade-blue-animation_token_blue_fade_02
+    21300494: animation-token_fade-blue-animation_token_blue_fade_03
+    21300496: animation-token_fade-blue-animation_token_blue_fade_04
+    21300498: animation-token_fade-blue-animation_token_blue_fade_05
+    21300500: animation-token_fade-blue-animation_token_blue_fade_06
+    21300502: color bomb-color-bomb
+    21300504: field elements-blue-cube
+    21300506: field elements-white-cube
+    21300508: line-line
+    21300510: ice-blocker-ice-blocker_01
+    21300512: ice-blocker-ice-blocker_02
+    21300514: ice-blocker-ice-blocker_03
+    21300516: ingridients-ingridient_basket
+    21300518: ingridients-ingridient_kiwi
+    21300520: ingridients-ingridient_strawberry
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 216
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_01
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_02
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -46}
+        - {x: -46, y: -56}
+        - {x: -27, y: -56}
+        - {x: -28, y: -53}
+        - {x: -54, y: -26}
+        - {x: -56, y: -26}
+      - - {x: 28, y: -54}
+        - {x: 28, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -28}
+        - {x: 53, y: -29}
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+      - - {x: -45, y: 56}
+        - {x: -56, y: 45}
+        - {x: -56, y: 24}
+        - {x: -53, y: 25}
+        - {x: -24, y: 54}
+        - {x: -24, y: 56}
+      - - {x: 26, y: 56}
+        - {x: 26, y: 49}
+        - {x: 49, y: 27}
+        - {x: 56, y: 27}
+        - {x: 56, y: 46}
+        - {x: 46, y: 56}
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_03
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 55}
+        - {x: -30, y: 55}
+        - {x: -55, y: 40}
+        - {x: -55, y: -40}
+        - {x: -38, y: -56}
+        - {x: 42, y: -56}
+        - {x: 56, y: -32}
+        - {x: 56, y: 21}
+        - {x: 45, y: 51}
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_04
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -40, y: 28}
+        - {x: -40, y: -24}
+        - {x: -31, y: -41}
+        - {x: 17, y: -41}
+        - {x: 41, y: -30}
+        - {x: 41, y: 27}
+        - {x: 30, y: 40}
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_05
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -16}
+        - {x: -22, y: -27}
+        - {x: 21, y: -27}
+        - {x: 27, y: -25}
+        - {x: 27, y: 13}
+        - {x: 23, y: 26}
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_06
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 13}
+        - {x: -13, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -5}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -4, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 14, y: -8}
+        - {x: 15, y: -5}
+    - name: animation-bomb_fade-bomb_blue_fade-animation_bomb-blue_fade_07
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -1, y: 6}
+        - {x: -6, y: 5}
+        - {x: -6, y: -6}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_01
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_02
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -46}
+        - {x: -46, y: -56}
+        - {x: -27, y: -56}
+        - {x: -28, y: -53}
+        - {x: -54, y: -26}
+        - {x: -56, y: -26}
+      - - {x: 28, y: -54}
+        - {x: 28, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -28}
+        - {x: 53, y: -29}
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+      - - {x: -45, y: 56}
+        - {x: -56, y: 45}
+        - {x: -56, y: 24}
+        - {x: -53, y: 25}
+        - {x: -24, y: 54}
+        - {x: -24, y: 56}
+      - - {x: 26, y: 56}
+        - {x: 26, y: 49}
+        - {x: 49, y: 27}
+        - {x: 56, y: 27}
+        - {x: 56, y: 46}
+        - {x: 46, y: 56}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_03
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 55}
+        - {x: -30, y: 55}
+        - {x: -55, y: 40}
+        - {x: -55, y: -40}
+        - {x: -38, y: -56}
+        - {x: 42, y: -56}
+        - {x: 56, y: -32}
+        - {x: 56, y: 21}
+        - {x: 45, y: 51}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_04
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -40, y: 28}
+        - {x: -40, y: -24}
+        - {x: -31, y: -41}
+        - {x: 17, y: -41}
+        - {x: 41, y: -30}
+        - {x: 41, y: 27}
+        - {x: 30, y: 40}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_05
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -16}
+        - {x: -22, y: -27}
+        - {x: 21, y: -27}
+        - {x: 27, y: -25}
+        - {x: 27, y: 13}
+        - {x: 23, y: 26}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_06
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 13}
+        - {x: -13, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -5}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -4, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 14, y: -8}
+        - {x: 15, y: -5}
+    - name: animation-bomb_fade-bomb_green_fade-animation_bomb-green_fade_07
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -1, y: 6}
+        - {x: -6, y: 5}
+        - {x: -6, y: -6}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_01
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -46}
+        - {x: -46, y: -56}
+        - {x: -27, y: -56}
+        - {x: -28, y: -53}
+        - {x: -54, y: -26}
+        - {x: -56, y: -26}
+      - - {x: 28, y: -54}
+        - {x: 28, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -28}
+        - {x: 53, y: -29}
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+      - - {x: -45, y: 56}
+        - {x: -56, y: 45}
+        - {x: -56, y: 24}
+        - {x: -53, y: 25}
+        - {x: -24, y: 54}
+        - {x: -24, y: 56}
+      - - {x: 26, y: 56}
+        - {x: 26, y: 49}
+        - {x: 49, y: 27}
+        - {x: 56, y: 27}
+        - {x: 56, y: 46}
+        - {x: 46, y: 56}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 55}
+        - {x: -30, y: 55}
+        - {x: -55, y: 40}
+        - {x: -55, y: -40}
+        - {x: -38, y: -56}
+        - {x: 42, y: -56}
+        - {x: 56, y: -32}
+        - {x: 56, y: 21}
+        - {x: 45, y: 51}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -40, y: 28}
+        - {x: -40, y: -24}
+        - {x: -31, y: -41}
+        - {x: 17, y: -41}
+        - {x: 41, y: -30}
+        - {x: 41, y: 27}
+        - {x: 30, y: 40}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -16}
+        - {x: -22, y: -27}
+        - {x: 21, y: -27}
+        - {x: 27, y: -25}
+        - {x: 27, y: 13}
+        - {x: 23, y: 26}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 13}
+        - {x: -13, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -5}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -4, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 14, y: -8}
+        - {x: 15, y: -5}
+    - name: animation-bomb_fade-bomb_orange_fade-animation_bomb-orange_fade_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -1, y: 6}
+        - {x: -6, y: 5}
+        - {x: -6, y: -6}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -46}
+        - {x: -46, y: -56}
+        - {x: -27, y: -56}
+        - {x: -28, y: -53}
+        - {x: -54, y: -26}
+        - {x: -56, y: -26}
+      - - {x: 28, y: -54}
+        - {x: 28, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -28}
+        - {x: 53, y: -29}
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+      - - {x: -45, y: 56}
+        - {x: -56, y: 45}
+        - {x: -56, y: 24}
+        - {x: -53, y: 25}
+        - {x: -24, y: 54}
+        - {x: -24, y: 56}
+      - - {x: 26, y: 56}
+        - {x: 26, y: 49}
+        - {x: 49, y: 27}
+        - {x: 56, y: 27}
+        - {x: 56, y: 46}
+        - {x: 46, y: 56}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 55}
+        - {x: -30, y: 55}
+        - {x: -55, y: 40}
+        - {x: -55, y: -40}
+        - {x: -38, y: -56}
+        - {x: 42, y: -56}
+        - {x: 56, y: -32}
+        - {x: 56, y: 21}
+        - {x: 45, y: 51}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -40, y: 28}
+        - {x: -40, y: -24}
+        - {x: -31, y: -41}
+        - {x: 17, y: -41}
+        - {x: 41, y: -30}
+        - {x: 41, y: 27}
+        - {x: 30, y: 40}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -16}
+        - {x: -22, y: -27}
+        - {x: 21, y: -27}
+        - {x: 27, y: -25}
+        - {x: 27, y: 13}
+        - {x: 23, y: 26}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 13}
+        - {x: -13, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -5}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -4, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 14, y: -8}
+        - {x: 15, y: -5}
+    - name: animation-bomb_fade-bomb_purple_fade-animation_bomb-purple_fade_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -1, y: 6}
+        - {x: -6, y: 5}
+        - {x: -6, y: -6}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -46}
+        - {x: -46, y: -56}
+        - {x: -27, y: -56}
+        - {x: -28, y: -53}
+        - {x: -54, y: -26}
+        - {x: -56, y: -26}
+      - - {x: 28, y: -54}
+        - {x: 28, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -28}
+        - {x: 53, y: -29}
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+      - - {x: -45, y: 56}
+        - {x: -56, y: 45}
+        - {x: -56, y: 24}
+        - {x: -53, y: 25}
+        - {x: -24, y: 54}
+        - {x: -24, y: 56}
+      - - {x: 26, y: 56}
+        - {x: 26, y: 49}
+        - {x: 49, y: 27}
+        - {x: 56, y: 27}
+        - {x: 56, y: 46}
+        - {x: 46, y: 56}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 55}
+        - {x: -30, y: 55}
+        - {x: -55, y: 40}
+        - {x: -55, y: -40}
+        - {x: -38, y: -56}
+        - {x: 42, y: -56}
+        - {x: 56, y: -32}
+        - {x: 56, y: 21}
+        - {x: 45, y: 51}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_04
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -40, y: 28}
+        - {x: -40, y: -24}
+        - {x: -31, y: -41}
+        - {x: 17, y: -41}
+        - {x: 41, y: -30}
+        - {x: 41, y: 27}
+        - {x: 30, y: 40}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_05
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -16}
+        - {x: -22, y: -27}
+        - {x: 21, y: -27}
+        - {x: 27, y: -25}
+        - {x: 27, y: 13}
+        - {x: 23, y: 26}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_06
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 13}
+        - {x: -13, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -5}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -4, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 14, y: -8}
+        - {x: 15, y: -5}
+    - name: animation-bomb_fade-bomb_red_fade-animation_bomb-red_fade_07
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -1, y: 6}
+        - {x: -6, y: 5}
+        - {x: -6, y: -6}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_01
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -46}
+        - {x: -46, y: -56}
+        - {x: -27, y: -56}
+        - {x: -28, y: -53}
+        - {x: -54, y: -26}
+        - {x: -56, y: -26}
+      - - {x: 28, y: -54}
+        - {x: 28, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -28}
+        - {x: 53, y: -29}
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+      - - {x: -45, y: 56}
+        - {x: -56, y: 45}
+        - {x: -56, y: 24}
+        - {x: -53, y: 25}
+        - {x: -24, y: 54}
+        - {x: -24, y: 56}
+      - - {x: 26, y: 56}
+        - {x: 26, y: 49}
+        - {x: 49, y: 27}
+        - {x: 56, y: 27}
+        - {x: 56, y: 46}
+        - {x: 46, y: 56}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_03
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 55}
+        - {x: -30, y: 55}
+        - {x: -55, y: 40}
+        - {x: -55, y: -40}
+        - {x: -38, y: -56}
+        - {x: 42, y: -56}
+        - {x: 56, y: -32}
+        - {x: 56, y: 21}
+        - {x: 45, y: 51}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_04
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40}
+        - {x: -40, y: 28}
+        - {x: -40, y: -24}
+        - {x: -31, y: -41}
+        - {x: 17, y: -41}
+        - {x: 41, y: -30}
+        - {x: 41, y: 27}
+        - {x: 30, y: 40}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_05
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -26, y: 18}
+        - {x: -26, y: -16}
+        - {x: -22, y: -27}
+        - {x: 21, y: -27}
+        - {x: 27, y: -25}
+        - {x: 27, y: 13}
+        - {x: 23, y: 26}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_06
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+        - {x: -4, y: 14}
+        - {x: -7, y: 13}
+        - {x: -13, y: 7}
+        - {x: -14, y: 4}
+        - {x: -14, y: -5}
+        - {x: -13, y: -8}
+        - {x: -7, y: -14}
+        - {x: -4, y: -15}
+        - {x: 5, y: -15}
+        - {x: 8, y: -14}
+        - {x: 14, y: -8}
+        - {x: 15, y: -5}
+    - name: animation-bomb_fade-bomb_yellow_fade-animation_bomb-yellow_fade_07
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -1, y: 6}
+        - {x: -6, y: 5}
+        - {x: -6, y: -6}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: animation-line_fade-line_h_blue_fade-animation_line_h_blue_01
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 55}
+        - {x: -45, y: 47}
+        - {x: -56, y: 39}
+        - {x: -56, y: -45}
+        - {x: -37, y: -56}
+        - {x: 47, y: -56}
+        - {x: 55, y: -53}
+        - {x: 56, y: -46}
+        - {x: 56, y: 38}
+        - {x: 31, y: 55}
+    - name: animation-line_fade-line_h_blue_fade-animation_line_h_blue_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 46}
+        - {x: -49, y: 42}
+        - {x: -49, y: -26}
+        - {x: -40, y: -48}
+        - {x: 29, y: -48}
+        - {x: 49, y: -32}
+        - {x: 49, y: 36}
+        - {x: 24, y: 46}
+    - name: animation-line_fade-line_h_blue_fade-animation_line_h_blue_03
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 37}
+        - {x: -39, y: 30}
+        - {x: -39, y: -13}
+        - {x: -32, y: -38}
+        - {x: 24, y: -38}
+        - {x: 39, y: -31}
+        - {x: 39, y: 37}
+    - name: animation-line_fade-line_h_blue_fade-animation_line_h_blue_04
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 28}
+        - {x: -29, y: 18}
+        - {x: -29, y: -22}
+        - {x: -20, y: -27}
+        - {x: 20, y: -27}
+        - {x: 28, y: -24}
+        - {x: 28, y: 22}
+        - {x: 27, y: 28}
+    - name: animation-line_fade-line_h_blue_fade-animation_line_h_blue_05
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -19, y: 11}
+        - {x: -19, y: -14}
+        - {x: -17, y: -17}
+        - {x: 14, y: -17}
+        - {x: 18, y: -8}
+        - {x: 18, y: 10}
+        - {x: 9, y: 18}
+    - name: animation-line_fade-line_h_blue_fade-animation_line_h_blue_06
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -9, y: 5}
+        - {x: -9, y: -2}
+        - {x: -6, y: -7}
+        - {x: 2, y: -7}
+        - {x: 7, y: -6}
+        - {x: 7, y: 7}
+        - {x: 2, y: 9}
+    - name: animation-line_fade-line_h_green_fade-animation_line_h_green_01
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 55}
+        - {x: -56, y: 31}
+        - {x: -56, y: -30}
+        - {x: -39, y: -56}
+        - {x: 27, y: -56}
+        - {x: 56, y: -42}
+        - {x: 56, y: 38}
+        - {x: 24, y: 55}
+    - name: animation-line_fade-line_h_green_fade-animation_line_h_green_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 46}
+        - {x: -23, y: 46}
+        - {x: -49, y: 19}
+        - {x: -49, y: -35}
+        - {x: -20, y: -47}
+        - {x: 34, y: -47}
+        - {x: 49, y: -20}
+        - {x: 49, y: 20}
+    - name: animation-line_fade-line_h_green_fade-animation_line_h_green_03
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 37}
+        - {x: -39, y: 15}
+        - {x: -39, y: -23}
+        - {x: -16, y: -37}
+        - {x: 14, y: -37}
+        - {x: 39, y: -16}
+        - {x: 39, y: 20}
+        - {x: 14, y: 37}
+    - name: animation-line_fade-line_h_green_fade-animation_line_h_green_04
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27}
+        - {x: -29, y: 19}
+        - {x: -29, y: -11}
+        - {x: -11, y: -27}
+        - {x: 18, y: -27}
+        - {x: 28, y: -9}
+        - {x: 28, y: 23}
+        - {x: 25, y: 27}
+    - name: animation-line_fade-line_h_green_fade-animation_line_h_green_05
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -9, y: 18}
+        - {x: -19, y: 12}
+        - {x: -19, y: -4}
+        - {x: -12, y: -17}
+        - {x: 5, y: -17}
+        - {x: 18, y: -6}
+        - {x: 18, y: 5}
+    - name: animation-line_fade-line_h_green_fade-animation_line_h_green_06
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -9, y: 5}
+        - {x: -9, y: -5}
+        - {x: -3, y: -7}
+        - {x: 4, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 3}
+        - {x: 4, y: 9}
+    - name: animation-line_fade-line_h_orange_fade-animation_line_h_orange_01
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 55}
+        - {x: -56, y: 44}
+        - {x: -56, y: -37}
+        - {x: -25, y: -56}
+        - {x: 50, y: -56}
+        - {x: 56, y: -50}
+        - {x: 56, y: 36}
+        - {x: 20, y: 55}
+    - name: animation-line_fade-line_h_orange_fade-animation_line_h_orange_02
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 46}
+        - {x: -41, y: 37}
+        - {x: -48, y: 32}
+        - {x: -49, y: 22}
+        - {x: -49, y: -6}
+        - {x: -42, y: -16}
+        - {x: -23, y: -42}
+        - {x: -7, y: -47}
+        - {x: 49, y: -47}
+        - {x: 49, y: 26}
+        - {x: 15, y: 46}
+    - name: animation-line_fade-line_h_orange_fade-animation_line_h_orange_03
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 37}
+        - {x: -39, y: 27}
+        - {x: -39, y: -23}
+        - {x: -11, y: -37}
+        - {x: 30, y: -37}
+        - {x: 38, y: -27}
+        - {x: 38, y: 8}
+        - {x: 14, y: 37}
+    - name: animation-line_fade-line_h_orange_fade-animation_line_h_orange_04
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -29, y: 19}
+        - {x: -29, y: -11}
+        - {x: -9, y: -26}
+        - {x: 27, y: -26}
+        - {x: 27, y: 12}
+        - {x: 10, y: 27}
+    - name: animation-line_fade-line_h_orange_fade-animation_line_h_orange_05
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 18}
+        - {x: -10, y: 18}
+        - {x: -19, y: 16}
+        - {x: -19, y: -9}
+        - {x: -11, y: -17}
+        - {x: 12, y: -17}
+        - {x: 17, y: -15}
+        - {x: 17, y: 4}
+        - {x: 6, y: 17}
+    - name: animation-line_fade-line_h_orange_fade-animation_line_h_orange_06
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 9}
+        - {x: -6, y: 9}
+        - {x: -9, y: 6}
+        - {x: -9, y: -4}
+        - {x: -2, y: -7}
+        - {x: 6, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 4}
+    - name: animation-line_fade-line_h_purple_fade-animation_line_h_purple_01
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 55}
+        - {x: -56, y: 41}
+        - {x: -56, y: -19}
+        - {x: -49, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 43}
+        - {x: 35, y: 55}
+    - name: animation-line_fade-line_h_purple_fade-animation_line_h_purple_02
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1821
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 46}
+        - {x: -49, y: 32}
+        - {x: -49, y: -24}
+        - {x: -43, y: -47}
+        - {x: 28, y: -47}
+        - {x: 47, y: -37}
+        - {x: 49, y: -23}
+        - {x: 49, y: 39}
+        - {x: 21, y: 46}
+    - name: animation-line_fade-line_h_purple_fade-animation_line_h_purple_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 37}
+        - {x: -18, y: 37}
+        - {x: -39, y: 28}
+        - {x: -39, y: -12}
+        - {x: -27, y: -37}
+        - {x: 23, y: -37}
+        - {x: 36, y: -27}
+        - {x: 39, y: -9}
+        - {x: 39, y: 22}
+    - name: animation-line_fade-line_h_purple_fade-animation_line_h_purple_04
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -29, y: 16}
+        - {x: -29, y: -10}
+        - {x: -24, y: -25}
+        - {x: -16, y: -27}
+        - {x: 23, y: -27}
+        - {x: 28, y: -12}
+        - {x: 28, y: 19}
+        - {x: 18, y: 27}
+    - name: animation-line_fade-line_h_purple_fade-animation_line_h_purple_05
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18}
+        - {x: -19, y: 13}
+        - {x: -19, y: -6}
+        - {x: -12, y: -17}
+        - {x: 11, y: -17}
+        - {x: 18, y: -6}
+        - {x: 18, y: 8}
+        - {x: 6, y: 18}
+    - name: animation-line_fade-line_h_purple_fade-animation_line_h_purple_06
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 8}
+        - {x: -5, y: 8}
+        - {x: -9, y: 3}
+        - {x: -9, y: -3}
+        - {x: -7, y: -7}
+        - {x: 4, y: -7}
+        - {x: 6, y: -6}
+        - {x: 7, y: 0}
+        - {x: 7, y: 4}
+    - name: animation-line_fade-line_h_red_fade-animation_line_h_red_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 55}
+        - {x: -56, y: -4}
+        - {x: 1, y: -56}
+        - {x: 31, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -12}
+        - {x: 12, y: 55}
+    - name: animation-line_fade-line_h_red_fade-animation_line_h_red_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 46}
+        - {x: -47, y: 42}
+        - {x: -47, y: 7}
+        - {x: -42, y: 1}
+        - {x: 3, y: -47}
+        - {x: 43, y: -47}
+        - {x: 47, y: -34}
+        - {x: 47, y: 1}
+        - {x: 14, y: 46}
+    - name: animation-line_fade-line_h_red_fade-animation_line_h_red_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 37}
+        - {x: -34, y: 34}
+        - {x: -38, y: 27}
+        - {x: -38, y: -9}
+        - {x: -1, y: -37}
+        - {x: 33, y: -37}
+        - {x: 37, y: -32}
+        - {x: 37, y: -11}
+        - {x: 9, y: 37}
+    - name: animation-line_fade-line_h_red_fade-animation_line_h_red_04
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 27}
+        - {x: -27, y: 20}
+        - {x: -27, y: -4}
+        - {x: 4, y: -27}
+        - {x: 21, y: -27}
+        - {x: 26, y: -24}
+        - {x: 26, y: -4}
+        - {x: 8, y: 27}
+    - name: animation-line_fade-line_h_red_fade-animation_line_h_red_05
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -18, y: -5}
+        - {x: -4, y: -17}
+        - {x: 10, y: -17}
+        - {x: 16, y: -14}
+        - {x: 16, y: -1}
+        - {x: 1, y: 18}
+    - name: animation-line_fade-line_h_red_fade-animation_line_h_red_06
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -8, y: 7}
+        - {x: -8, y: 1}
+        - {x: 0, y: -7}
+        - {x: 3, y: -7}
+        - {x: 7, y: -3}
+        - {x: 6, y: 1}
+        - {x: 1, y: 9}
+    - name: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_01
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 21}
+        - {x: 25, y: 55}
+        - {x: -25, y: 55}
+        - {x: -51, y: 26}
+        - {x: -51, y: -38}
+        - {x: -48, y: -49}
+        - {x: -29, y: -56}
+        - {x: 27, y: -56}
+        - {x: 29, y: -55}
+        - {x: 49, y: -44}
+        - {x: 51, y: -31}
+    - name: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 46}
+        - {x: -42, y: 39}
+        - {x: -42, y: -47}
+        - {x: 37, y: -47}
+        - {x: 42, y: -42}
+        - {x: 42, y: 19}
+        - {x: 33, y: 46}
+    - name: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 37}
+        - {x: -34, y: 22}
+        - {x: -34, y: -21}
+        - {x: -28, y: -37}
+        - {x: 22, y: -37}
+        - {x: 33, y: -29}
+        - {x: 33, y: 16}
+        - {x: 24, y: 37}
+    - name: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_04
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -24, y: 18}
+        - {x: -24, y: -27}
+        - {x: 21, y: -27}
+        - {x: 23, y: -21}
+        - {x: 23, y: 18}
+        - {x: 10, y: 27}
+    - name: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_05
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -14, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -9, y: -17}
+        - {x: 10, y: -17}
+        - {x: 15, y: -8}
+        - {x: 15, y: 10}
+        - {x: 9, y: 18}
+    - name: animation-line_fade-line_h_yellow_fade-animation_line_h_yellow_06
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -7, y: 4}
+        - {x: -8, y: -2}
+        - {x: -3, y: -7}
+        - {x: 2, y: -7}
+        - {x: 6, y: -3}
+        - {x: 6, y: 5}
+        - {x: 1, y: 9}
+    - name: animation-line_fade-line_v_blue_fade-animation_line_v_blue_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 55}
+        - {x: -45, y: 47}
+        - {x: -56, y: 39}
+        - {x: -56, y: -45}
+        - {x: -37, y: -56}
+        - {x: 47, y: -56}
+        - {x: 55, y: -53}
+        - {x: 56, y: -46}
+        - {x: 56, y: 38}
+        - {x: 31, y: 55}
+    - name: animation-line_fade-line_v_blue_fade-animation_line_v_blue_02
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 46}
+        - {x: -49, y: 42}
+        - {x: -49, y: -26}
+        - {x: -40, y: -48}
+        - {x: 29, y: -48}
+        - {x: 49, y: -32}
+        - {x: 49, y: 36}
+        - {x: 24, y: 46}
+    - name: animation-line_fade-line_v_blue_fade-animation_line_v_blue_03
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 37}
+        - {x: -39, y: 30}
+        - {x: -39, y: -13}
+        - {x: -32, y: -38}
+        - {x: 24, y: -38}
+        - {x: 39, y: -31}
+        - {x: 39, y: 37}
+    - name: animation-line_fade-line_v_blue_fade-animation_line_v_blue_04
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 28}
+        - {x: -29, y: 18}
+        - {x: -29, y: -22}
+        - {x: -20, y: -27}
+        - {x: 20, y: -27}
+        - {x: 28, y: -24}
+        - {x: 28, y: 22}
+        - {x: 27, y: 28}
+    - name: animation-line_fade-line_v_blue_fade-animation_line_v_blue_05
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -19, y: 11}
+        - {x: -19, y: -14}
+        - {x: -17, y: -17}
+        - {x: 14, y: -17}
+        - {x: 18, y: -8}
+        - {x: 18, y: 10}
+        - {x: 9, y: 18}
+    - name: animation-line_fade-line_v_blue_fade-animation_line_v_blue_06
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -9, y: 5}
+        - {x: -9, y: -2}
+        - {x: -6, y: -7}
+        - {x: 2, y: -7}
+        - {x: 7, y: -6}
+        - {x: 7, y: 7}
+        - {x: 2, y: 9}
+    - name: animation-line_fade-line_v_green_fade-animation_line_v_green_01
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 55}
+        - {x: -56, y: 31}
+        - {x: -56, y: -30}
+        - {x: -39, y: -56}
+        - {x: 27, y: -56}
+        - {x: 56, y: -42}
+        - {x: 56, y: 38}
+        - {x: 24, y: 55}
+    - name: animation-line_fade-line_v_green_fade-animation_line_v_green_02
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 46}
+        - {x: -23, y: 46}
+        - {x: -49, y: 19}
+        - {x: -49, y: -35}
+        - {x: -20, y: -47}
+        - {x: 34, y: -47}
+        - {x: 49, y: -20}
+        - {x: 49, y: 20}
+    - name: animation-line_fade-line_v_green_fade-animation_line_v_green_03
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 37}
+        - {x: -39, y: 15}
+        - {x: -39, y: -23}
+        - {x: -16, y: -37}
+        - {x: 14, y: -37}
+        - {x: 39, y: -16}
+        - {x: 39, y: 20}
+        - {x: 14, y: 37}
+    - name: animation-line_fade-line_v_green_fade-animation_line_v_green_04
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27}
+        - {x: -29, y: 19}
+        - {x: -29, y: -11}
+        - {x: -11, y: -27}
+        - {x: 18, y: -27}
+        - {x: 28, y: -9}
+        - {x: 28, y: 23}
+        - {x: 25, y: 27}
+    - name: animation-line_fade-line_v_green_fade-animation_line_v_green_05
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -9, y: 18}
+        - {x: -19, y: 12}
+        - {x: -19, y: -4}
+        - {x: -12, y: -17}
+        - {x: 5, y: -17}
+        - {x: 18, y: -6}
+        - {x: 18, y: 5}
+    - name: animation-line_fade-line_v_green_fade-animation_line_v_green_06
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -9, y: 5}
+        - {x: -9, y: -5}
+        - {x: -3, y: -7}
+        - {x: 4, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 3}
+        - {x: 4, y: 9}
+    - name: animation-line_fade-line_v_orange_fade-animation_line_v_orange_01
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1707
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 55}
+        - {x: -56, y: 44}
+        - {x: -56, y: -37}
+        - {x: -25, y: -56}
+        - {x: 50, y: -56}
+        - {x: 56, y: -50}
+        - {x: 56, y: 36}
+        - {x: 20, y: 55}
+    - name: animation-line_fade-line_v_orange_fade-animation_line_v_orange_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 46}
+        - {x: -41, y: 37}
+        - {x: -48, y: 32}
+        - {x: -49, y: 22}
+        - {x: -49, y: -6}
+        - {x: -42, y: -16}
+        - {x: -23, y: -42}
+        - {x: -7, y: -47}
+        - {x: 49, y: -47}
+        - {x: 49, y: 26}
+        - {x: 15, y: 46}
+    - name: animation-line_fade-line_v_orange_fade-animation_line_v_orange_03
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 37}
+        - {x: -39, y: 27}
+        - {x: -39, y: -23}
+        - {x: -11, y: -37}
+        - {x: 30, y: -37}
+        - {x: 38, y: -27}
+        - {x: 38, y: 8}
+        - {x: 14, y: 37}
+    - name: animation-line_fade-line_v_orange_fade-animation_line_v_orange_04
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -29, y: 19}
+        - {x: -29, y: -11}
+        - {x: -9, y: -26}
+        - {x: 27, y: -26}
+        - {x: 27, y: 12}
+        - {x: 10, y: 27}
+    - name: animation-line_fade-line_v_orange_fade-animation_line_v_orange_05
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 18}
+        - {x: -10, y: 18}
+        - {x: -19, y: 16}
+        - {x: -19, y: -9}
+        - {x: -11, y: -17}
+        - {x: 12, y: -17}
+        - {x: 17, y: -15}
+        - {x: 17, y: 4}
+        - {x: 6, y: 17}
+    - name: animation-line_fade-line_v_orange_fade-animation_line_v_orange_06
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 9}
+        - {x: -6, y: 9}
+        - {x: -9, y: 6}
+        - {x: -9, y: -4}
+        - {x: -2, y: -7}
+        - {x: 6, y: -7}
+        - {x: 7, y: -3}
+        - {x: 7, y: 4}
+    - name: animation-line_fade-line_v_purple_fade-animation_line_v_purple_01
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 55}
+        - {x: -56, y: 41}
+        - {x: -56, y: -19}
+        - {x: -49, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 43}
+        - {x: 35, y: 55}
+    - name: animation-line_fade-line_v_purple_fade-animation_line_v_purple_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 46}
+        - {x: -49, y: 32}
+        - {x: -49, y: -24}
+        - {x: -43, y: -47}
+        - {x: 28, y: -47}
+        - {x: 47, y: -37}
+        - {x: 49, y: -23}
+        - {x: 49, y: 39}
+        - {x: 21, y: 46}
+    - name: animation-line_fade-line_v_purple_fade-animation_line_v_purple_03
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 37}
+        - {x: -18, y: 37}
+        - {x: -39, y: 28}
+        - {x: -39, y: -12}
+        - {x: -27, y: -37}
+        - {x: 23, y: -37}
+        - {x: 36, y: -27}
+        - {x: 39, y: -9}
+        - {x: 39, y: 22}
+    - name: animation-line_fade-line_v_purple_fade-animation_line_v_purple_04
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -29, y: 16}
+        - {x: -29, y: -10}
+        - {x: -24, y: -25}
+        - {x: -16, y: -27}
+        - {x: 23, y: -27}
+        - {x: 28, y: -12}
+        - {x: 28, y: 19}
+        - {x: 18, y: 27}
+    - name: animation-line_fade-line_v_purple_fade-animation_line_v_purple_05
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18}
+        - {x: -19, y: 13}
+        - {x: -19, y: -6}
+        - {x: -12, y: -17}
+        - {x: 11, y: -17}
+        - {x: 18, y: -6}
+        - {x: 18, y: 8}
+        - {x: 6, y: 18}
+    - name: animation-line_fade-line_v_purple_fade-animation_line_v_purple_06
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 8}
+        - {x: -5, y: 8}
+        - {x: -9, y: 3}
+        - {x: -9, y: -3}
+        - {x: -7, y: -7}
+        - {x: 4, y: -7}
+        - {x: 6, y: -6}
+        - {x: 7, y: 0}
+        - {x: 7, y: 4}
+    - name: animation-line_fade-line_v_red_fade-animation_line_v_red_01
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 55}
+        - {x: -56, y: -4}
+        - {x: 1, y: -56}
+        - {x: 31, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: -12}
+        - {x: 12, y: 55}
+    - name: animation-line_fade-line_v_red_fade-animation_line_v_red_02
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 46}
+        - {x: -47, y: 42}
+        - {x: -47, y: 7}
+        - {x: -42, y: 1}
+        - {x: 3, y: -47}
+        - {x: 43, y: -47}
+        - {x: 47, y: -34}
+        - {x: 47, y: 1}
+        - {x: 14, y: 46}
+    - name: animation-line_fade-line_v_red_fade-animation_line_v_red_03
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 37}
+        - {x: -34, y: 34}
+        - {x: -38, y: 27}
+        - {x: -38, y: -9}
+        - {x: -1, y: -37}
+        - {x: 33, y: -37}
+        - {x: 37, y: -32}
+        - {x: 37, y: -11}
+        - {x: 9, y: 37}
+    - name: animation-line_fade-line_v_red_fade-animation_line_v_red_04
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 27}
+        - {x: -27, y: 20}
+        - {x: -27, y: -4}
+        - {x: 4, y: -27}
+        - {x: 21, y: -27}
+        - {x: 26, y: -24}
+        - {x: 26, y: -4}
+        - {x: 8, y: 27}
+    - name: animation-line_fade-line_v_red_fade-animation_line_v_red_05
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -18, y: -5}
+        - {x: -4, y: -17}
+        - {x: 10, y: -17}
+        - {x: 16, y: -14}
+        - {x: 16, y: -1}
+        - {x: 1, y: 18}
+    - name: animation-line_fade-line_v_red_fade-animation_line_v_red_06
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -8, y: 7}
+        - {x: -8, y: 1}
+        - {x: 0, y: -7}
+        - {x: 3, y: -7}
+        - {x: 7, y: -3}
+        - {x: 6, y: 1}
+        - {x: 1, y: 9}
+    - name: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_01
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 21}
+        - {x: 25, y: 55}
+        - {x: -25, y: 55}
+        - {x: -51, y: 26}
+        - {x: -51, y: -38}
+        - {x: -48, y: -49}
+        - {x: -29, y: -56}
+        - {x: 27, y: -56}
+        - {x: 29, y: -55}
+        - {x: 49, y: -44}
+        - {x: 51, y: -31}
+    - name: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_02
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 46}
+        - {x: -42, y: 39}
+        - {x: -42, y: -47}
+        - {x: 37, y: -47}
+        - {x: 42, y: -42}
+        - {x: 42, y: 19}
+        - {x: 33, y: 46}
+    - name: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_03
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 37}
+        - {x: -34, y: 22}
+        - {x: -34, y: -21}
+        - {x: -28, y: -37}
+        - {x: 22, y: -37}
+        - {x: 33, y: -29}
+        - {x: 33, y: 16}
+        - {x: 24, y: 37}
+    - name: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_04
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -24, y: 18}
+        - {x: -24, y: -27}
+        - {x: 21, y: -27}
+        - {x: 23, y: -21}
+        - {x: 23, y: 18}
+        - {x: 10, y: 27}
+    - name: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_05
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -14, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -9, y: -17}
+        - {x: 10, y: -17}
+        - {x: 15, y: -8}
+        - {x: 15, y: 10}
+        - {x: 9, y: 18}
+    - name: animation-line_fade-line_v_yellow_fade-animation_line_v_yellow_06
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -7, y: 4}
+        - {x: -8, y: -2}
+        - {x: -3, y: -7}
+        - {x: 2, y: -7}
+        - {x: 6, y: -3}
+        - {x: 6, y: 5}
+        - {x: 1, y: 9}
+    - name: animation-token_fade-blue-animation_token_blue_fade_01
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 55}
+        - {x: -56, y: 36}
+        - {x: -56, y: -38}
+        - {x: -38, y: -56}
+        - {x: 36, y: -56}
+        - {x: 50, y: -53}
+        - {x: 56, y: -44}
+        - {x: 56, y: 28}
+        - {x: 44, y: 55}
+    - name: animation-token_fade-blue-animation_token_blue_fade_02
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 46}
+        - {x: -49, y: 21}
+        - {x: -49, y: -40}
+        - {x: -33, y: -48}
+        - {x: 36, y: -48}
+        - {x: 49, y: -27}
+        - {x: 49, y: 31}
+        - {x: 32, y: 46}
+    - name: animation-token_fade-blue-animation_token_blue_fade_03
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 37}
+        - {x: -39, y: 24}
+        - {x: -39, y: -29}
+        - {x: -27, y: -39}
+        - {x: 24, y: -39}
+        - {x: 39, y: -25}
+        - {x: 39, y: 17}
+        - {x: 24, y: 37}
+    - name: animation-token_fade-blue-animation_token_blue_fade_04
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 29}
+        - {x: -30, y: 20}
+        - {x: -30, y: -26}
+        - {x: -17, y: -30}
+        - {x: 22, y: -30}
+        - {x: 30, y: -15}
+        - {x: 30, y: 20}
+        - {x: 16, y: 29}
+    - name: animation-token_fade-blue-animation_token_blue_fade_05
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 19}
+        - {x: -20, y: -11}
+        - {x: -15, y: -20}
+        - {x: 10, y: -20}
+        - {x: 20, y: -11}
+        - {x: 20, y: 17}
+        - {x: 15, y: 19}
+    - name: animation-token_fade-blue-animation_token_blue_fade_06
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -11, y: 6}
+        - {x: -11, y: -4}
+        - {x: -6, y: -11}
+        - {x: 4, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 6}
+        - {x: 6, y: 11}
+    - name: animation-token_fade-Green-animation_token_green_fade_01
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 54}
+        - {x: -56, y: 21}
+        - {x: -56, y: -17}
+        - {x: -28, y: -56}
+        - {x: 40, y: -56}
+        - {x: 56, y: -22}
+        - {x: 56, y: 26}
+        - {x: 15, y: 54}
+    - name: animation-token_fade-Green-animation_token_green_fade_02
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 45}
+        - {x: -47, y: 12}
+        - {x: -47, y: -26}
+        - {x: -19, y: -47}
+        - {x: 27, y: -47}
+        - {x: 47, y: -14}
+        - {x: 47, y: 21}
+        - {x: 17, y: 45}
+    - name: animation-token_fade-Green-animation_token_green_fade_03
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 34}
+        - {x: 10, y: 35}
+        - {x: -12, y: 35}
+        - {x: -37, y: 11}
+        - {x: -37, y: -13}
+        - {x: -12, y: -38}
+        - {x: 14, y: -38}
+        - {x: 37, y: -11}
+        - {x: 37, y: 5}
+        - {x: 36, y: 11}
+    - name: animation-token_fade-Green-animation_token_green_fade_04
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1593
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25}
+        - {x: -27, y: 13}
+        - {x: -27, y: -13}
+        - {x: -7, y: -27}
+        - {x: 16, y: -27}
+        - {x: 27, y: -9}
+        - {x: 27, y: 8}
+        - {x: 15, y: 25}
+    - name: animation-token_fade-Green-animation_token_green_fade_05
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -17, y: 6}
+        - {x: -17, y: -6}
+        - {x: -11, y: -18}
+        - {x: 5, y: -18}
+        - {x: 17, y: -7}
+        - {x: 17, y: 6}
+        - {x: 6, y: 16}
+    - name: animation-token_fade-Green-animation_token_green_fade_06
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 8}
+        - {x: -8, y: 1}
+        - {x: -8, y: -1}
+        - {x: -1, y: -8}
+        - {x: 1, y: -8}
+        - {x: 8, y: -1}
+        - {x: 8, y: 1}
+        - {x: 1, y: 8}
+    - name: animation-token_fade-Orange-animation_token_orange_fade_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -31}
+        - {x: -11, y: -56}
+        - {x: 54, y: -56}
+        - {x: 54, y: 15}
+        - {x: 44, y: 53}
+        - {x: -36, y: 53}
+        - {x: -55, y: 36}
+    - name: animation-token_fade-Orange-animation_token_orange_fade_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 44}
+        - {x: -46, y: 36}
+        - {x: -46, y: -32}
+        - {x: -7, y: -46}
+        - {x: 34, y: -46}
+        - {x: 45, y: -35}
+        - {x: 45, y: 17}
+        - {x: 11, y: 44}
+    - name: animation-token_fade-Orange-animation_token_orange_fade_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 35}
+        - {x: -36, y: 24}
+        - {x: -36, y: -19}
+        - {x: -9, y: -36}
+        - {x: 28, y: -36}
+        - {x: 35, y: -30}
+        - {x: 35, y: 9}
+        - {x: 11, y: 35}
+    - name: animation-token_fade-Orange-animation_token_orange_fade_04
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 25}
+        - {x: -12, y: 25}
+        - {x: -18, y: 23}
+        - {x: -26, y: 18}
+        - {x: -26, y: -7}
+        - {x: -14, y: -26}
+        - {x: 18, y: -26}
+        - {x: 26, y: -19}
+        - {x: 26, y: -4}
+        - {x: 24, y: 7}
+    - name: animation-token_fade-Orange-animation_token_orange_fade_05
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -17, y: -10}
+        - {x: -3, y: -17}
+        - {x: 9, y: -17}
+        - {x: 17, y: -14}
+        - {x: 17, y: 6}
+        - {x: 9, y: 16}
+    - name: animation-token_fade-Orange-animation_token_orange_fade_06
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -7, y: 4}
+        - {x: -7, y: -2}
+        - {x: -2, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 1}
+        - {x: 1, y: 7}
+    - name: animation-token_fade-Purple-animation_token_purple_fade_01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 52}
+        - {x: -56, y: 44}
+        - {x: -56, y: -36}
+        - {x: -54, y: -48}
+        - {x: -51, y: -56}
+        - {x: 52, y: -56}
+        - {x: 56, y: -55}
+        - {x: 56, y: 24}
+        - {x: 31, y: 52}
+    - name: animation-token_fade-Purple-animation_token_purple_fade_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 43}
+        - {x: -46, y: 14}
+        - {x: -46, y: -4}
+        - {x: -38, y: -34}
+        - {x: -34, y: -46}
+        - {x: 42, y: -46}
+        - {x: 46, y: -22}
+        - {x: 46, y: 20}
+        - {x: 15, y: 43}
+    - name: animation-token_fade-Purple-animation_token_purple_fade_03
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -37}
+        - {x: 22, y: -37}
+        - {x: 37, y: -20}
+        - {x: 37, y: 20}
+        - {x: 24, y: 34}
+        - {x: -11, y: 34}
+        - {x: -37, y: 19}
+        - {x: -37, y: -18}
+    - name: animation-token_fade-Purple-animation_token_purple_fade_04
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 24}
+        - {x: -5, y: 24}
+        - {x: -26, y: 13}
+        - {x: -26, y: -8}
+        - {x: -17, y: -26}
+        - {x: 17, y: -26}
+        - {x: 22, y: -20}
+        - {x: 26, y: -4}
+        - {x: 26, y: 10}
+    - name: animation-token_fade-Purple-animation_token_purple_fade_05
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -17, y: 6}
+        - {x: -17, y: -1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -17}
+        - {x: 15, y: -17}
+        - {x: 17, y: -8}
+        - {x: 17, y: 6}
+        - {x: 5, y: 16}
+    - name: animation-token_fade-Purple-animation_token_purple_fade_06
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 7}
+        - {x: -8, y: 3}
+        - {x: -8, y: -7}
+        - {x: 5, y: -7}
+        - {x: 8, y: -1}
+        - {x: 8, y: 3}
+        - {x: 3, y: 7}
+    - name: animation-token_fade-Red-animation_token_red_fade_01
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 52}
+        - {x: -42, y: 52}
+        - {x: -52, y: 44}
+        - {x: -52, y: -1}
+        - {x: -3, y: -56}
+        - {x: 39, y: -56}
+        - {x: 46, y: -51}
+        - {x: 52, y: -38}
+        - {x: 52, y: -16}
+        - {x: 12, y: 49}
+    - name: animation-token_fade-Red-animation_token_red_fade_02
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 43}
+        - {x: -43, y: 30}
+        - {x: -43, y: -2}
+        - {x: 8, y: -46}
+        - {x: 41, y: -46}
+        - {x: 43, y: -45}
+        - {x: 43, y: 12}
+        - {x: 11, y: 43}
+    - name: animation-token_fade-Red-animation_token_red_fade_03
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 34}
+        - {x: -26, y: 34}
+        - {x: -34, y: 20}
+        - {x: -34, y: 4}
+        - {x: -26, y: -7}
+        - {x: 4, y: -36}
+        - {x: 9, y: -37}
+        - {x: 18, y: -37}
+        - {x: 34, y: -29}
+        - {x: 34, y: -8}
+        - {x: 33, y: -4}
+    - name: animation-token_fade-Red-animation_token_red_fade_04
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -23, y: 19}
+        - {x: -24, y: 12}
+        - {x: -24, y: 3}
+        - {x: 1, y: -27}
+        - {x: 19, y: -27}
+        - {x: 24, y: -26}
+        - {x: 24, y: -5}
+        - {x: 13, y: 25}
+    - name: animation-token_fade-Red-animation_token_red_fade_05
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: 0}
+        - {x: 0, y: -17}
+        - {x: 8, y: -17}
+        - {x: 14, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: -4}
+        - {x: 1, y: 16}
+    - name: animation-token_fade-Red-animation_token_red_fade_06
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -7, y: 4}
+        - {x: -7, y: 0}
+        - {x: -1, y: -7}
+        - {x: 6, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 0}
+        - {x: 0, y: 7}
+    - name: animation-token_fade-Yellow-animation_token_yellow_fade_01
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 54}
+        - {x: -24, y: 54}
+        - {x: -40, y: 23}
+        - {x: -46, y: 5}
+        - {x: -46, y: -44}
+        - {x: -26, y: -56}
+        - {x: 39, y: -56}
+        - {x: 46, y: -50}
+        - {x: 46, y: 13}
+        - {x: 37, y: 45}
+    - name: animation-token_fade-Yellow-animation_token_yellow_fade_02
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 45}
+        - {x: -17, y: 45}
+        - {x: -38, y: 27}
+        - {x: -38, y: -20}
+        - {x: -37, y: -30}
+        - {x: -22, y: -47}
+        - {x: 25, y: -47}
+        - {x: 38, y: -30}
+        - {x: 38, y: 9}
+        - {x: 36, y: 19}
+    - name: animation-token_fade-Yellow-animation_token_yellow_fade_03
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 35}
+        - {x: -30, y: 16}
+        - {x: -30, y: -33}
+        - {x: -26, y: -37}
+        - {x: 17, y: -37}
+        - {x: 30, y: -33}
+        - {x: 30, y: 16}
+        - {x: 12, y: 35}
+    - name: animation-token_fade-Yellow-animation_token_yellow_fade_04
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -16, y: 21}
+        - {x: -21, y: 6}
+        - {x: -22, y: 1}
+        - {x: -22, y: -13}
+        - {x: -12, y: -27}
+        - {x: 11, y: -27}
+        - {x: 22, y: -22}
+        - {x: 22, y: 7}
+        - {x: 11, y: 25}
+    - name: animation-token_fade-Yellow-animation_token_yellow_fade_05
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1479
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -12, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -11}
+        - {x: -6, y: -17}
+        - {x: 9, y: -17}
+        - {x: 14, y: -13}
+        - {x: 14, y: 6}
+        - {x: 10, y: 16}
+    - name: animation-token_fade-Yellow-animation_token_yellow_fade_06
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 7}
+        - {x: -6, y: 3}
+        - {x: -6, y: -6}
+        - {x: -1, y: -8}
+        - {x: 3, y: -8}
+        - {x: 6, y: -4}
+        - {x: 6, y: 2}
+        - {x: 2, y: 7}
+    - name: bomb-bomb_blue
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: bomb-bomb_green
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: bomb-bomb_orange
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1935
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: bomb-bomb_purple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: bomb-bomb_red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: bomb-bomb_yellow
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 49}
+        - {x: -31, y: 49}
+        - {x: -49, y: 34}
+        - {x: -49, y: -44}
+        - {x: -42, y: -49}
+        - {x: 39, y: -49}
+        - {x: 49, y: -35}
+        - {x: 49, y: 44}
+        - {x: 44, y: 48}
+    - name: bubbles
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 56}
+        - {x: -56, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 56}
+    - name: color bomb-color-bomb
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 46}
+        - {x: 26, y: 56}
+        - {x: -24, y: 56}
+        - {x: -53, y: 29}
+        - {x: -53, y: -27}
+        - {x: -41, y: -41}
+        - {x: -15, y: -56}
+        - {x: 13, y: -56}
+        - {x: 42, y: -38}
+        - {x: 53, y: -27}
+        - {x: 53, y: 37}
+    - name: cookies-cookie1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 56}
+        - {x: -56, y: 53}
+        - {x: -56, y: -52}
+        - {x: -51, y: -56}
+        - {x: 48, y: -56}
+        - {x: 56, y: -54}
+        - {x: 56, y: 53}
+        - {x: 53, y: 56}
+    - name: cookies-cookie2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 56}
+        - {x: -56, y: 53}
+        - {x: -56, y: -52}
+        - {x: -51, y: -56}
+        - {x: 48, y: -56}
+        - {x: 56, y: -54}
+        - {x: 56, y: 53}
+        - {x: 53, y: 56}
+    - name: field elements-blue-cube
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 56}
+        - {x: -56, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 56}
+    - name: field elements-white-cube
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 56}
+        - {x: -56, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 56}
+    - name: ice-blocker-ice-blocker_01
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 56}
+        - {x: -56, y: 53}
+        - {x: -56, y: -51}
+        - {x: -51, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 56}
+    - name: ice-blocker-ice-blocker_02
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 56}
+        - {x: -56, y: 53}
+        - {x: -56, y: -51}
+        - {x: -51, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 56}
+    - name: ice-blocker-ice-blocker_03
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 56}
+        - {x: -56, y: 53}
+        - {x: -56, y: -51}
+        - {x: -51, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 56}
+    - name: ingridients-ingridient_basket
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 32}
+        - {x: -50, y: 32}
+        - {x: -56, y: 31}
+        - {x: -56, y: -10}
+        - {x: -39, y: -38}
+        - {x: 21, y: -38}
+        - {x: 47, y: -22}
+        - {x: 56, y: 1}
+        - {x: 56, y: 26}
+    - name: ingridients-ingridient_kiwi
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 53}
+        - {x: -56, y: 33}
+        - {x: -56, y: -43}
+        - {x: -43, y: -56}
+        - {x: 47, y: -56}
+        - {x: 56, y: -38}
+        - {x: 56, y: 42}
+        - {x: 38, y: 53}
+    - name: ingridients-ingridient_strawberry
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 56}
+        - {x: -55, y: 48}
+        - {x: -56, y: 37}
+        - {x: -56, y: -55}
+        - {x: -54, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 17}
+        - {x: 33, y: 56}
+    - name: line-line
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1935
+        width: 334
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: 37}
+        - {x: 149, y: 56}
+        - {x: -145, y: 56}
+        - {x: -149, y: 55}
+        - {x: -162, y: 37}
+        - {x: -167, y: 26}
+        - {x: -167, y: -26}
+        - {x: -158, y: -44}
+        - {x: -146, y: -56}
+        - {x: 148, y: -56}
+        - {x: 160, y: -45}
+        - {x: 167, y: -26}
+        - {x: 167, y: 24}
+    - name: line-line_h_blue
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 56}
+        - {x: -56, y: 56}
+        - {x: -56, y: -56}
+        - {x: 36, y: -56}
+        - {x: 56, y: -46}
+        - {x: 56, y: 21}
+        - {x: 45, y: 42}
+    - name: line-line_h_green
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 54}
+        - {x: -56, y: 21}
+        - {x: -56, y: -24}
+        - {x: -26, y: -56}
+        - {x: 20, y: -56}
+        - {x: 56, y: -29}
+        - {x: 56, y: 15}
+        - {x: 33, y: 54}
+    - name: line-line_h_orange
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 53}
+        - {x: -55, y: 35}
+        - {x: -55, y: -32}
+        - {x: -23, y: -56}
+        - {x: 48, y: -56}
+        - {x: 54, y: -47}
+        - {x: 54, y: 21}
+        - {x: 11, y: 53}
+    - name: line-line_h_purple
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1365
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 52}
+        - {x: -53, y: 29}
+        - {x: -56, y: 23}
+        - {x: -56, y: -16}
+        - {x: -49, y: -55}
+        - {x: -44, y: -56}
+        - {x: 44, y: -56}
+        - {x: 56, y: -27}
+        - {x: 56, y: 24}
+        - {x: 19, y: 52}
+    - name: line-line_h_red
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 52}
+        - {x: -52, y: 32}
+        - {x: -52, y: -3}
+        - {x: -3, y: -56}
+        - {x: 40, y: -56}
+        - {x: 52, y: -49}
+        - {x: 52, y: -7}
+        - {x: 4, y: 52}
+    - name: line-line_h_yellow
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1137
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54}
+        - {x: -46, y: 10}
+        - {x: -46, y: -39}
+        - {x: -23, y: -56}
+        - {x: 33, y: -56}
+        - {x: 46, y: -34}
+        - {x: 46, y: 23}
+        - {x: 25, y: 54}
+    - name: line-line_v_blue
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1023
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 56}
+        - {x: -56, y: 56}
+        - {x: -56, y: -56}
+        - {x: 36, y: -56}
+        - {x: 56, y: -46}
+        - {x: 56, y: 21}
+        - {x: 45, y: 42}
+    - name: line-line_v_green
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 909
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 54}
+        - {x: -56, y: 21}
+        - {x: -56, y: -24}
+        - {x: -26, y: -56}
+        - {x: 20, y: -56}
+        - {x: 56, y: -29}
+        - {x: 56, y: 15}
+        - {x: 33, y: 54}
+    - name: line-line_v_orange
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 795
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 53}
+        - {x: -55, y: 35}
+        - {x: -55, y: -32}
+        - {x: -23, y: -56}
+        - {x: 48, y: -56}
+        - {x: 54, y: -47}
+        - {x: 54, y: 21}
+        - {x: 11, y: 53}
+    - name: line-line_v_purple
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 681
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 52}
+        - {x: -53, y: 29}
+        - {x: -56, y: 23}
+        - {x: -56, y: -16}
+        - {x: -49, y: -55}
+        - {x: -44, y: -56}
+        - {x: 44, y: -56}
+        - {x: 56, y: -27}
+        - {x: 56, y: 24}
+        - {x: 19, y: 52}
+    - name: line-line_v_red
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 567
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 52}
+        - {x: -52, y: 32}
+        - {x: -52, y: -3}
+        - {x: -3, y: -56}
+        - {x: 40, y: -56}
+        - {x: 52, y: -49}
+        - {x: 52, y: -7}
+        - {x: 4, y: 52}
+    - name: line-line_v_yellow
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54}
+        - {x: -46, y: 10}
+        - {x: -46, y: -39}
+        - {x: -23, y: -56}
+        - {x: 33, y: -56}
+        - {x: 46, y: -34}
+        - {x: 46, y: 23}
+        - {x: 25, y: 54}
+    - name: stone-stone_01
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 339
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -40}
+        - {x: -41, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -40}
+        - {x: 50, y: 41}
+    - name: stone-stone_02
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 225
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -40}
+        - {x: -41, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -40}
+        - {x: 50, y: 41}
+    - name: stone-stone_03
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 111
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 50}
+        - {x: -50, y: 50}
+        - {x: -50, y: -40}
+        - {x: -41, y: -50}
+        - {x: 41, y: -50}
+        - {x: 50, y: -40}
+        - {x: 50, y: 41}
+    - name: tokens-token_blue
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 56}
+        - {x: -56, y: 56}
+        - {x: -56, y: -56}
+        - {x: 36, y: -56}
+        - {x: 56, y: -46}
+        - {x: 56, y: 21}
+        - {x: 45, y: 42}
+    - name: tokens-token_green
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 54}
+        - {x: -56, y: 21}
+        - {x: -56, y: -24}
+        - {x: -26, y: -56}
+        - {x: 20, y: -56}
+        - {x: 56, y: -29}
+        - {x: 56, y: 15}
+        - {x: 33, y: 54}
+    - name: tokens-token_orange
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 53}
+        - {x: -55, y: 35}
+        - {x: -55, y: -32}
+        - {x: -23, y: -56}
+        - {x: 48, y: -56}
+        - {x: 54, y: -47}
+        - {x: 54, y: 21}
+        - {x: 11, y: 53}
+    - name: tokens-token_purple
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 52}
+        - {x: -53, y: 29}
+        - {x: -56, y: 23}
+        - {x: -56, y: -16}
+        - {x: -49, y: -55}
+        - {x: -44, y: -56}
+        - {x: 44, y: -56}
+        - {x: 56, y: -27}
+        - {x: 56, y: 24}
+        - {x: 19, y: 52}
+    - name: tokens-token_red
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 52}
+        - {x: -52, y: 32}
+        - {x: -52, y: -3}
+        - {x: -3, y: -56}
+        - {x: 40, y: -56}
+        - {x: 52, y: -49}
+        - {x: 52, y: -7}
+        - {x: 4, y: 52}
+    - name: tokens-token_yellow
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1251
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54}
+        - {x: -46, y: 10}
+        - {x: -46, y: -39}
+        - {x: -23, y: -56}
+        - {x: 33, y: -56}
+        - {x: 46, y: -34}
+        - {x: 46, y: 23}
+        - {x: 25, y: 54}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

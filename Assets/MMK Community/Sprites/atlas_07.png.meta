@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 15e9f845f70714146af663be1b52685f
+timeCreated: 1463578855
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: base_out-of-moves
+    21300002: base_content_sending
+    21300004: base_content_sending_stroke
+    21300006: bg_loading
+    21300008: bg_loading_without-stars
+    21300010: first-screen_cloud-1
+    21300012: first-screen_cloud-2
+    21300014: first-screen_cotopus
+    21300016: first-screen_sun
+    21300018: first-screen_water
+    21300020: star_flying
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: base_content_sending
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 886
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base_content_sending_stroke
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 746
+        width: 884
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base_out-of-moves
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1416
+        width: 1084
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_loading
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 849
+        width: 674
+        height: 1198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_loading_without-stars
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 985
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: first-screen_cloud-1
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 234
+        width: 509
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: first-screen_cloud-2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 303
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: first-screen_cotopus
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 413
+        width: 215
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: first-screen_sun
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 39
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: first-screen_water
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 454
+        width: 802
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star_flying
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 74
+        width: 26
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

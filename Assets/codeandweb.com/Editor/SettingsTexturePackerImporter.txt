@@ -1,0 +1,26 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/MMK Community/Sprites/atlas_01.tpsheet
+- Assets/MMK Community/Sprites/atlas_02.tpsheet
+- Assets/MMK Community/Sprites/atlas_03.tpsheet
+- Assets/MMK Community/Sprites/atlas_04.tpsheet
+- Assets/MMK Community/Sprites/atlas_05.tpsheet
+- Assets/MMK Community/Sprites/atlas_06.tpsheet
+- Assets/MMK Community/Sprites/atlas_07.tpsheet
+textureFileNames:
+- Assets/MMK Community/Sprites/atlas_01.png
+- Assets/MMK Community/Sprites/atlas_02.png
+- Assets/MMK Community/Sprites/atlas_03.png
+- Assets/MMK Community/Sprites/atlas_04.png
+- Assets/MMK Community/Sprites/atlas_05.png
+- Assets/MMK Community/Sprites/atlas_06.png
+- Assets/MMK Community/Sprites/atlas_07.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
