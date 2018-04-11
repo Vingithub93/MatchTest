@@ -1,1 +1,1 @@
-python C:\Users\Automation\Documents\Demo\Match\tests\Test.py
+python "%CD%"\Match\tests\Test.py
