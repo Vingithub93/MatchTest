@@ -54,7 +54,6 @@
      <Compile Include="Assets\AltUnityTester\AltUnity\AltUnityObjectAction.cs" />
      <Compile Include="Assets\AltUnityTester\AltUnity\AltUnityObjectProperty.cs" />
      <Compile Include="Assets\AltUnityTester\AltUnityDriver.cs" />
-     <Compile Include="Assets\AltUnityTester\ExamplesAndTests (can be deleted)\SampleScene\Capsule.cs" />
      <Compile Include="Assets\FacebookSDK\SDK\Scripts\AccessToken.cs" />
      <Compile Include="Assets\FacebookSDK\SDK\Scripts\AppEventName.cs" />
      <Compile Include="Assets\FacebookSDK\SDK\Scripts\AppEventParameterName.cs" />

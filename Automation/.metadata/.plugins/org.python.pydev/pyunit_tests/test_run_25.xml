@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 25" tests="1" total_time="Finished in: 58.39 secs."/>
+<test location="C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\generics\BaseTest.py" status="error" test="BaseTest.test_01" time="">
+<stdout><![CDATA[Waiting for scene to be MainMenu...
+Current scene is MainMenu
+]]></stdout>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\generics\BaseTest.py", line 53, in test_01
+    self.scene1.S1_flow_01()
+  File "C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\scenes\Scene1.py", line 25, in S1_flow_01
+    self.driver.save
+AttributeError: 'WebDriver' object has no attribute 'save'
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="MatchMe BaseTest.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

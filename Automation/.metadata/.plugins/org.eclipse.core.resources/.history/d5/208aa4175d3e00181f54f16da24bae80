@@ -1,0 +1,11 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+
+class MyClass(object):
+    '''
+    classdocs
+    '''
+

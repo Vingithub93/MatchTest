@@ -1,0 +1,25 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+from altunityrunner.runner import AltrunUnityDriver
+
+class Scene1Tasks(object):
+    '''
+    classdocs
+    '''
+
+    altdriver=None
+
+    def __init__(self, driver, platform):
+        '''
+        Constructor
+        '''
+        self.altdriver=AltrunUnityDriver(driver, platform)
+    
+    def checkInformation(self):
+        self.altdriver.wait_for_current_scene_to_be('MainMenu')
+        self.altdriver.wait_for_element('button "information"').tap()
+        
+        

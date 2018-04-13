@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+generics.BaseTest|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\generics\BaseTest.py
+generics.__init__|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\generics\__init__.py
+scenes.Scene1|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\scenes\Scene1.py
+scenes.Scene2|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\scenes\Scene2.py
+scenes.Scene3|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\scenes\Scene3.py
+scenes.__init__|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\scenes\__init__.py
+tests.TestCase1|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\tests\TestCase1.py
+tests.__init__|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\tests\__init__.py
+workflow.Scene1Tasks|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\workflow\Scene1Tasks.py
+workflow.Scene2Tasks|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\workflow\Scene2Tasks.py
+workflow.Scene3Tasks|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\workflow\Scene3Tasks.py
+workflow.__init__|C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\workflow\__init__.py

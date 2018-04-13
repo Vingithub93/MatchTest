@@ -1,0 +1,16 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+from time import sleep
+from appium import webdriver
+from altunityrunner import AltrunUnityDriver
+
+class Scene1Tasks(object):
+    '''
+    classdocs
+    '''
+    def checkInfo(self):
+        self
+    

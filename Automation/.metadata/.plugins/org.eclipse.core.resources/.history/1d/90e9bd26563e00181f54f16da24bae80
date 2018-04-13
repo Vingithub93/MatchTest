@@ -1,0 +1,37 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+from time import sleep
+
+class Scene2Tasks(object):
+    '''
+    classdocs
+    '''
+    altdriver=None
+    
+    def __init__(self, altdriver):
+        self.altdriver=altdriver
+        
+    def clickLives(self):
+        self.altdriver.wait_for_element('Base').tap()
+        self.altdriver.wait_for_element('Close').tap()
+    
+    def clickAchivements(self):
+        self.altdriver.wait_for_element('Achievements Icon').tap()
+        
+    def clickSettings(self):
+        self.altdriver.wait_for_element('Normal').tap()
+        
+    def clickClose(self):
+        self.altdriver.wait_for_element('Close').tap()
+        
+    def clickCloseRightPanel(self):
+        self.altdriver.wait_for_element('Close Button').tap()
+        
+    def selectLevel(self, level):
+        self.altdriver.wait_for_element(level).tap()
+    
+    def clickPlay(self):
+        self.altdriver.wait_for_element('Button "Play"').tap()

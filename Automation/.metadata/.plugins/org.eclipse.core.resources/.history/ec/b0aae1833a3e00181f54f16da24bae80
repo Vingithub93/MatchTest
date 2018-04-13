@@ -1,0 +1,17 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+
+class Scene1Tasks(object):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+        

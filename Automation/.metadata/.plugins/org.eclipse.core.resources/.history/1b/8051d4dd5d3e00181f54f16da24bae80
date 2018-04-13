@@ -1,0 +1,16 @@
+'''
+
+
+@author: Vinayak
+'''
+from workflow.Scene1Tasks import Scene1Tasks
+
+class Scene1(object):
+    '''
+    classdocs
+    '''
+    altdriver=None
+    def __init__(self, altdriver):
+        self.altdriver=altdriver
+    def flow_01(self):
+        self.o=Scene1Tasks(altdriver)

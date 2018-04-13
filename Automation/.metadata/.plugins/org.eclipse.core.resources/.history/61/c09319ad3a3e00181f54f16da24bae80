@@ -1,0 +1,18 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+
+class Scene1Tasks(object):
+    '''
+    classdocs
+    '''
+
+    altdriver=None
+
+    def __init__(self, driver, platform):
+        '''
+        Constructor
+        '''
+        

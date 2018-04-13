@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 24" tests="1" total_time="Finished in: 48.46 secs."/>
+<test location="C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\generics\BaseTest.py" status="error" test="BaseTest.test_01" time="">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\generics\BaseTest.py", line 52, in test_01
+    self.scene3=Scene3(self.altdriverself.driver)
+AttributeError: 'BaseTest' object has no attribute 'altdriverself'
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="MatchMe BaseTest.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

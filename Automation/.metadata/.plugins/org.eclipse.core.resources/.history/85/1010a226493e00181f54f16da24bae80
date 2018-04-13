@@ -1,0 +1,24 @@
+'''
+Created on 12-Apr-2018
+
+@author: Automation
+'''
+
+class Scene2Tasks(object):
+    '''
+    classdocs
+    '''
+    altdriver=None
+    
+    def __init__(self, altdriver):
+        self.altdriver=altdriver
+        
+    def clickLives(self):
+        self.altdriver.wait_for_element('Base').tap()
+        self.altdriver.wait_for_element('Close').tap()
+        
+    def clickCoins(self):
+        self.altdriver.wait_for_element('Base').tap()
+        self.altdriver.wait_for_element('Close').tap()
+        
+    
