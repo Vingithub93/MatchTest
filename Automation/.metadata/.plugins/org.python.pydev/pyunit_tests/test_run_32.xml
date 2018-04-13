@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="0" failures="0" finished="true" name="Test Run: 32" tests="1" total_time="Finished in: 57.71 secs."/>
+<test location="C:\Users\Automation\Documents\MatchMe\Automation\MatchMe\tests\TestCase1.py" status="ok" test="TestCase1.test_01" time="13.74">
+<stdout><![CDATA[Waiting for scene to be MainMenu...
+Current scene is MainMenu
+Waiting for element button "information"...
+Element button "information" found at x:80 y:1157 mobileY:123
+Waiting for element Information Pop-up...
+Element Information Pop-up found at x:360 y:643 mobileY:637
+Waiting for element Close...
+Element Close found at x:671 y:939 mobileY:341
+Waiting for element Play...
+Element Play found at x:360 y:287 mobileY:993
+]]></stdout>
+<stderr/>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="MatchMe TestCase1.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

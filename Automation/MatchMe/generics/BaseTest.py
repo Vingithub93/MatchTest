@@ -45,14 +45,7 @@ class BaseTest(unittest.TestCase):
 
         self.driver = webdriver.Remote('http://localhost:4723/wd/hub', self.desired_caps)
         self.altdriver = AltrunUnityDriver(self.driver, self.platform)
-        
-    def test_01(self):
-        self.scene1=Scene1(self.altdriver, self.driver)
-        self.scene2=Scene2(self.altdriver, self.driver)
-        self.scene3=Scene3(self.altdriver, self.driver)
-        self.scene1.S1_flow_01()
-        self.scene2.S2_flow_01()
-        self.scene3.S3_flow_01()
+
 
     @classmethod
     def tearDownClass(self):
@@ -62,4 +55,4 @@ class BaseTest(unittest.TestCase):
 
 if __name__ == "__main__":
     #import sys;sys.argv = ['', 'Test.testName']
-    unittest.main()
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='reports'))

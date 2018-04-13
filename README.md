@@ -4,7 +4,7 @@
 
 * Completion of the first level with validation of score
 * Completion of second level with validation of score
-* Reporting: Reports are generated and saved under "Automation/MatchMe/reports" folder
+* Reporting: Reports are generated and saved under "<MatchMe project-dir>/Automation/MatchMe/reports" folder
 * Screenshots: Screenshots are generated and saved under "Automation/MatchMe/screenshots" folder
 
 ## Setup
@@ -30,5 +30,6 @@ To use the MatchMe Automation framework, you need to:
 * adb devices
 * adb forward tcp:13001 tcp:13001
 4. Start the Appium server with 'Host - 0.0.0.0' and 'Port - 4723'
+5. Run the Run.bat file under "<MatchMe project-dir>/Automation/MatchMe"
   
   
