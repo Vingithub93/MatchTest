@@ -10,6 +10,7 @@ from workflow.Scene2Tasks import Scene2Tasks
 
 class Scene2(object):
     '''
+    classdocs
     '''
 
     altdriver=None

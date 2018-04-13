@@ -30,6 +30,6 @@ To use the MatchMe Automation framework, you need to:
 * ``adb devices``
 * ``adb forward tcp:13001 tcp:13001``
 4. Start the Appium server with 'Host - 0.0.0.0' and 'Port - 4723'
-5. Run the Run.bat file under ``'<MatchMe project-dir>/Automation/MatchMe'``
+5. Run the ``Run.bat`` file 
   
   
