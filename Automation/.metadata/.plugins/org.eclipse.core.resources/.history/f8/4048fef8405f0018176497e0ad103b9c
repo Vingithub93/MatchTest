@@ -1,0 +1,52 @@
+
+import os
+from appium import webdriver
+from altunityrunner import AltrunUnityDriver
+
+import pytest
+
+
+PATH = lambda p: os.path.abspath(
+    os.path.join(os.path.dirname(__file__), p)
+)
+class BaseTest():
+
+    altdriver = None
+    driver=None
+    eledriver=  None
+    text= None
+    platform = "android" # set to iOS to change platform
+    
+    @classmethod
+    def setup_class(self):
+        self.desired_caps = {}
+        if (self.platform == "android"):
+            self.desired_caps['testobject_api_key'] = 'C9205C289DC34A0E8EF9B3B29154766F'
+            self.desired_caps['platformName'] = 'Android'
+            self.desired_caps['deviceName'] = 'Motorola Moto E'
+            self.desired_caps['platformVersion']='6.0'
+            self.desired_caps['phoneOnly']='false'
+            self.desired_caps['tabletOnly']='false'
+            self.desired_caps['privateDevicesOnly']='false'
+            self.desired_caps['appiumVersion']='1.6.4'
+            self.desired_caps['newCommandTimeout'] = 400
+            self.desired_caps['app'] = PATH('../../../match.apk')
+        else: 
+            self.desired_caps['platformName'] = 'iOS'
+            self.desired_caps['deviceName'] = 'iPhone8'
+            self.desired_caps['automationName'] = 'XCUITest'
+            self.desired_caps['app'] = PATH('../../../match.ipa')
+
+        self.driver = webdriver.Remote('https://eu1.appium.testobject.com/wd/hub', self.desired_caps)
+        self.altdriver = AltrunUnityDriver(self.driver, self.platform)
+
+
+    @classmethod
+    def teardown_class(self):
+        self.altdriver.stop()
+        self.driver.quit()
+        os.chdir(PATH('../reports'))
+        os.startfile('Report.bat')
+      
+if __name__ == '__main__':
+    pytest.main()

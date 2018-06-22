@@ -1,0 +1,8 @@
+import cx_Oracle
+
+class MyClass(object):
+    '''
+    classdocs
+    '''
+    
+    

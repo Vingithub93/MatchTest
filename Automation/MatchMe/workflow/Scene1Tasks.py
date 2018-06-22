@@ -1,14 +1,6 @@
-'''
-
-
-@author: Automation
-'''
-from altunityrunner.runner import AltrunUnityDriver
-from time import sleep
 
 class Scene1Tasks(object):
-    '''
-    '''
+
     altdriver=None
     driver=None
     def __init__(self, altdriver, driver):

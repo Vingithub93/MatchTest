@@ -1,0 +1,1 @@
+allure serve "%CD%"/allure-report

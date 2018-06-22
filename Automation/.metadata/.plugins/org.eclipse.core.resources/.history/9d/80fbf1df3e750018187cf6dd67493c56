@@ -1,0 +1,56 @@
+# Python code to illustrate Sending mail from 
+# your Gmail account 
+import smtplib
+import  os
+
+# For 2.7
+from email.MIMEMultipart import MIMEMultipart
+from email.MIMEBase import MIMEBase
+from email import Encoders
+
+# For 3.x
+# import email
+# from email.mime.multipart import MIMEMultipart
+# from email.mime.base import MIMEBase
+
+PATH = lambda p: os.path.abspath(
+    os.path.join(os.path.dirname(__file__), p)
+)
+
+SUBJECT = "Byjus test email report"
+
+msg = MIMEMultipart()
+msg['Subject'] = SUBJECT 
+msg['From'] = "vinayakagouda.p@testyantra.com"
+msg['To'] = "vinayakpatil.sw@gmail.com"
+
+part = MIMEBase('application', "octet-stream")
+part.set_payload(open(PATH('../data/controller.xlsx'), "rb").read())
+
+# for 2.x
+Encoders.encode_base64(part)
+
+# for 3.x
+# email.encoder.encode_base64(part)
+
+part.add_header('Content-Disposition', 'attachment; filename="Email Calc.txt"')
+
+msg.attach(part)
+
+# creates SMTP session
+s = smtplib.SMTP('smtp.gmail.com', 587)
+ 
+# start TLS for security
+s.starttls()
+ 
+# Authentication
+s.login("vinayakagouda.p@testyanta.com", "vinayakpatil93")
+ 
+# message to be sent
+message = "Write the message that you need to send"
+ 
+# sending the mail
+s.sendmail("vijayashrinagaraj@gmail.com", "xyz@gmail.com", msg.as_string())
+ 
+# terminating the session
+s.quit()

@@ -1,0 +1,4 @@
+import cx_Oracle
+
+
+connection=cx_Oracle.connect("scott","tiger","localhost/orcl")

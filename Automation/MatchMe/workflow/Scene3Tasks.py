@@ -1,12 +1,7 @@
-'''
-
-
-@author: Vinayak
-'''
+from time import sleep
 
 class Scene3Tasks(object):
-    '''
-    '''
+
     altdriver=None
     driver=None
     def __init__(self, altdriver, driver):
@@ -40,4 +35,6 @@ class Scene3Tasks(object):
         
     def clickSettings(self):
         self.altdriver.wait_for_element('Normal').tap()
+        
+    
         

@@ -1,0 +1,164 @@
+Waiting for scene to be MainMenu...
+Current scene is MainMenu
+Waiting for element button "information"...
+Element button "information" found at x:53 y:771 mobileY:83
+Waiting for element Information Pop-up...
+Element Information Pop-up found at x:240 y:429 mobileY:425
+Waiting for element Close...
+Element Close found at x:447 y:626 mobileY:228
+Waiting for element Play...
+Element Play found at x:240 y:192 mobileY:662
+Waiting for scene to be Map...
+Current scene is MainMenu
+Waiting for scene to be Map...
+Current scene is MainMenu
+Waiting for scene to be Map...
+Current scene is MainMenu
+Waiting for scene to be Map...
+Current scene is Map
+Waiting for element Base...
+Element Base found at x:101 y:811 mobileY:43
+Waiting for element Close...
+Element Close found at x:447 y:624 mobileY:230
+Waiting for element Close...
+Element Close found at x:447 y:624 mobileY:230
+Waiting for element Achievements Icon...
+Element Achievements Icon found at x:451 y:669 mobileY:185
+Waiting for element Close Button...
+Element Close Button found at x:452 y:825 mobileY:29
+Waiting for element Settings...
+Element Settings found at x:240 y:427 mobileY:427
+Waiting for element Music...
+Element Music found at x:160 y:75 mobileY:779
+Waiting for element Music...
+Element Music found at x:160 y:75 mobileY:779
+Waiting for element Close...
+Element Close found at x:59 y:76 mobileY:778
+Waiting for scene to be Map...
+Current scene is Map
+Waiting for element Level 1...
+Element Level 1 found at x:258 y:97 mobileY:757
+Waiting for element text *level number*...
+Element text *level number* found at x:240 y:772 mobileY:82
+Element text *level number* found at x:240 y:772 mobileY:82
+Waiting for element Button "Play"...
+Element Button "Play" found at x:240 y:306 mobileY:548
+Waiting for scene to be mainGame...
+Current scene is Map
+Waiting for scene to be mainGame...
+Current scene is Map
+Waiting for scene to be mainGame...
+Current scene is Map
+Waiting for scene to be mainGame...
+Current scene is mainGame
+Element counter found at x:240 y:789 mobileY:65
+Number of moves8
+Number of elements54
+Element counter found at x:240 y:789 mobileY:65
+8
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+7
+Element counter found at x:240 y:789 mobileY:65
+6
+Element counter found at x:240 y:789 mobileY:65
+5
+Element counter found at x:240 y:789 mobileY:65
+5
+Element counter found at x:240 y:789 mobileY:65
+4
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+3
+Element counter found at x:240 y:789 mobileY:65
+2
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+1
+Element counter found at x:240 y:789 mobileY:65
+0
+Moves are 0
+Waiting for element Counter...
+Element Counter found at x:121 y:776 mobileY:78
+Element Counter found at x:121 y:776 mobileY:78
+Waiting for element Text *Score*...
+Element Text *Score* found at x:240 y:415 mobileY:439
+Element Text *Score* found at x:240 y:415 mobileY:439
+Waiting for element Text "Next"...
+Element Text "Next" found at x:240 y:306 mobileY:548
+Element text *level number* found at x:240 y:772 mobileY:82
+Waiting for element Button "Play"...
+Element Button "Play" found at x:240 y:306 mobileY:548
+Waiting for element Normal...
+Element Normal found at x:59 y:76 mobileY:778
+Waiting for element Quit...
+Element Quit found at x:362 y:75 mobileY:779
+Waiting for element Close...
+Element Close found at x:447 y:748 mobileY:106
+Waiting for scene to be Map...
+Current scene is mainGame
+Waiting for scene to be Map...
+Current scene is mainGame
+Waiting for scene to be Map...
+Current scene is mainGame
+Waiting for scene to be Map...
+Current scene is Map

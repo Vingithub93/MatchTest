@@ -1,0 +1,1 @@
+pytest tests/Test_Case1.py --alluredir "%CD%"\reports\allure-report

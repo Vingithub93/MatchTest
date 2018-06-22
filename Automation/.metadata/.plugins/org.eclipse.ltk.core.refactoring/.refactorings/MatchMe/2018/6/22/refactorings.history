@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MatchMe/tests/input.txt&apos; to &apos;python.txt&apos;" description="Rename resource &apos;input.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="tests/input.txt" name="python.txt" stamp="1527840080222" updateReferences="true"/>
+</session>

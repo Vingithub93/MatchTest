@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MatchMe/generics/email.txt&apos; to &apos;EmailReport.py&apos;" description="Rename resource &apos;email.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="generics/email.txt" name="EmailReport.py" stamp="1529576730207" updateReferences="true"/>
+</session>

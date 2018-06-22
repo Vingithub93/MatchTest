@@ -1,13 +1,6 @@
-'''
-
-
-@author: Vinayak
-'''
-from time import sleep
 
 class Scene2Tasks(object):
-    '''
-    '''
+
     altdriver=None
     driver=None
     def __init__(self, altdriver, driver):

@@ -1,0 +1,89 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1529566098505" stop="1529566346173">
+  <name>tests.Test_Case1</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1529566098505" status="passed" stop="1529566338835">
+      <description>
+        Complete end to end testing of Level 1
+        </description>
+      <name>Test_Case1.test_01</name>
+      <attachments>
+        <attachment source="e3dfa255-2748-4fb8-8ae9-a6211360b831-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="929f465f-e60c-4679-9994-5e8a08a2b2f7-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="7748-MainThread"/>
+        <label name="host" value="TYSS-MF-034"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1529566338916" status="failed" stop="1529566346173">
+      <description>
+        Complete end to end testing of Level 2
+        </description>
+      <name>Test_Case1.test_02</name>
+      <failure>
+        <message>WebDriverException: Message: The coordinates provided to an interactions operation are invalid.
+</message>
+        <stack-trace>self = &lt;tests.Test_Case1.Test_Case1 instance at 0x04200B48&gt;
+
+    @pytest.allure.CRITICAL
+    def test_02(self):
+        '''
+            Complete end to end testing of Level 2
+            '''
+    
+        self.scene1=Scene1(self.altdriver, self.driver)
+        self.scene2=Scene2(self.altdriver, self.driver)
+        self.scene3=Scene3(self.altdriver, self.driver)
+    
+&gt;       self.scene2.S2_Select_level('Level 2')
+
+tests\Test_Case1.py:37: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+scenes\Scene2.py:52: in S2_Select_level
+    self.scene2.selectLevel(level)
+workflow\Scene2Tasks.py:30: in selectLevel
+    self.altdriver.wait_for_element(level).tap()
+c:\python27\lib\site-packages\altunityrunner\runner.py:60: in tap
+    self.appium_driver.tap([[float(self.x), float(self.mobileY)]], durationInSeconds * 1000)
+c:\python27\lib\site-packages\appium\webdriver\webdriver.py:249: in tap
+    action.perform()
+c:\python27\lib\site-packages\appium\webdriver\common\touch_action.py:94: in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+c:\python27\lib\site-packages\selenium\webdriver\remote\webdriver.py:314: in execute
+    self.error_handler.check_response(response)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;appium.webdriver.errorhandler.MobileErrorHandler object at 0x04003FF0&gt;
+response = {'status': 500, 'value': '{"status":29,"value":{"message":"The coordinates provided to an interactions operation are invalid."},"sessionId":"7ac080ff-074c-43f7-8235-2931e6749bba"}'}
+
+    def check_response(self, response):
+        try:
+            super(MobileErrorHandler, self).check_response(response)
+        except WebDriverException as wde:
+            if wde.msg == 'No such context found.':
+                raise NoSuchContextException(wde.msg, wde.screen, wde.stacktrace)
+            else:
+&gt;               raise wde
+E               WebDriverException: Message: The coordinates provided to an interactions operation are invalid.
+
+c:\python27\lib\site-packages\appium\webdriver\errorhandler.py:29: WebDriverException</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="b85995c5-d7fd-4afa-9b5d-0ed9e941e0ff-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="7748-MainThread"/>
+        <label name="host" value="TYSS-MF-034"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
